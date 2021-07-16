@@ -1,5 +1,5 @@
 ---
-- hosts: webservers 
+- hosts: Jenkins 
   become: True
   tasks:
     - name: Install packages
