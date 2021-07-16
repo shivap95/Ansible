@@ -1,2 +1,2 @@
 [Jenkins]
-172.31.12.189 ansible_user=ec2-user 
+65.2.81.48 ansible_user=ec2-user 
